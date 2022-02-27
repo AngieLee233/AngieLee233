@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 I'm Angie Lee <img align="right" src="https://github-readme-stats.vercel.app/api?username=AngieLee233&show_icons=true&theme=radical">
 
-<!--
-**AngieLee233/AngieLee233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![GitHub followers](https://img.shields.io/github/followers/AngieLee233?style=social)   ![GitHub User's stars](https://img.shields.io/github/stars/AngieLee233?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 这个世界给我带来的问题，远比我能给它提供的答案要多得多
+- 我就像这个世界一样，这个世界是不会变的；但我不如这个世界，我会变
+- 有些人做事也不是想要什么结果，他只是想看这个世界燃烧而已
+- 混沌和随机是一种非常迷人的生活哲学
+- 都说人无远虑必有近忧，简单来说就是人一辈子没什么安生的日子
+- 别太较劲，祝你我都能成为自由而无用的灵魂吧
+
+
+## &#x1f92b; Github Visitors
+
+
+[![Top Langs](https://profile-counter.glitch.me/AngieLee233/count.svg)](https://github.com/AngieLee233)
